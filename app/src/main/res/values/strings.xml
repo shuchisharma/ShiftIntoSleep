@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shift Into Sleep</string>
+    <string name="action_settings">Settings</string>
+    <string name="snooze_button_4">Snooze</string>
+    <string name="snooze_button">Snooze</string>
+    <string name="snooze_button2">Snooze</string>
+    <string name="snooze_button3">Snooze</string>
+    <string name="off_button">Turn Off</string>
+    <string name="music_switch">Music On/Off</string>
+    <string name="shufflemusic_checkbox">Shuffle Music</string>
+    <string name="on_switch5">On/Off</string>
+</resources>
